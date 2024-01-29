@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edfdad6e.css",
+    "main.js": "/static/js/main.fa440841.js",
+    "static/media/machu.jpg": "/static/media/machu.8ce8dfa386a48dfc7eda.jpg",
+    "static/media/machupichu.jpg": "/static/media/machupichu.881a7da4c7d38f9392a3.jpg",
+    "static/media/fondo1.jpg": "/static/media/fondo1.9320948b9573c083a2c4.jpg",
+    "index.html": "/index.html",
+    "main.edfdad6e.css.map": "/static/css/main.edfdad6e.css.map",
+    "main.fa440841.js.map": "/static/js/main.fa440841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfdad6e.css",
+    "static/js/main.fa440841.js"
+  ]
+}
